@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Aditya Dubey's Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #e0f7fa; /* soft light blue */
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            color: #00796b; /* teal-ish */
+        }
+        .container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            max-width: 800px;
+            margin: auto;
+            box-shadow: 0 0 15px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #004d40;
+            border-bottom: 2px solid #b2dfdb;
+            padding-bottom: 5px;
+            margin-top: 30px;
+        }
+        p, li {
+            line-height: 1.6;
+        }
+        ul {
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Aditya Dubey's Webpage</h1>
+
+    <div class="container">
+        <h2>Name</h2>
+        <p>Aditya Dubey</p>
+
+        <h2>Class</h2>
+        <p>Btech CSE B1</p>
+
+        <h2>Contact</h2>
+        <p>Email: aadidubey18@gmail.com</p>
+        <p>Phone: 7389222696</p>
+
+        <h2>About Me</h2>
+        <p>
+            I am a student who is passionate about learning web development and technology. I enjoy working on creative projects and building useful applications.
+        </p>
+
+        <h2>Skills</h2>
+        <ul>
+            <li>Python</li>
+            <li>HTML</li>
+            <li>Teamwork</li>
+            <li>Problem-solving</li>
+        </ul>
+
+        <h2>Projects</h2>
+        <ul>
+            <li>To be made</li>
+        </ul>
+
+        <h2>Future Goals</h2>
+        <p>To become a skilled programmer.</p>
+    </div>
+
+</body>
+</html>
